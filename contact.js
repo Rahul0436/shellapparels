@@ -130,11 +130,7 @@ function validateForm() {
 
 
 
-var view = document.getElementById("view");
-view.style.marginBottom="0px";
-view.style.marginRight="200px"
-view.style.display="none";
-view.style.color="green";
+
 
 
 
